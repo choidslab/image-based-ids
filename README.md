@@ -179,10 +179,10 @@ If you use this repository or find this work helpful in your research, please ci
 ```
 
 ### APA Style
-Choi, D.-S., Kim, T., Kang, B., & Im, E. G. (2025). Image-based Malicious Network Traffic Detection Framework: Data-centric approach. *Journal Name*, *XX*(X), XXX-XXX. https://doi.org/10.XXXX/XXXXXXX
+Choi, D., Kim, T., Kang, B., & Im, E.G. (2025). Image-based Malicious Network Traffic Detection Framework: Data-centric approach. *Journal Name*, *XX*(X), XXX-XXX. https://doi.org/10.XXXX/XXXXXXX
 
 ### IEEE Style
-D.-S. Choi, T. Kim, B. Kang, and E. G. Im, "Image-based Malicious Network Traffic Detection Framework: Data-centric approach," *Journal Name*, vol. XX, no. X, pp. XXX-XXX, 2024, doi: 10.XXXX/XXXXXXX.
+D.-S. Choi, T. Kim, B. Kang, and E.G. Im, "Image-based Malicious Network Traffic Detection Framework: Data-centric approach," *Journal Name*, vol. XX, no. X, pp. XXX-XXX, 2024, doi: 10.XXXX/XXXXXXX.
 
 ---
 
