@@ -165,27 +165,27 @@ If you use this repository or find this work helpful in your research, please ci
 
 ### BibTeX
 ```bibtex
-@article{choi2024image,
+@article{choi2025image,
   title={Image-based Malicious Network Traffic Detection Framework: Data-centric approach},
   author={Choi, Doo-Seop and Kim, Taeguen and Kang, BooJoong and Im, Eul Gyu},
-  journal={Journal Name},
-  volume={XX},
-  number={X},
-  pages={XXX--XXX},
+  journal={Applied Sciences},
+  volume={15},
+  number={12},
+  pages={6546},
   year={2025},
-  publisher={Publisher Name},
-  doi={10.XXXX/XXXXXXX}
+  publisher={MDPI},
+  doi={10.3390/app15126546}
 }
+
 ```
 
 ### APA Style
-Choi, D., Kim, T., Kang, B., & Im, E.G. (2025). Image-based Malicious Network Traffic Detection Framework: Data-centric approach. *Journal Name*, *XX*(X), XXX-XXX. https://doi.org/10.XXXX/XXXXXXX
+Choi, D.-S., Kim, T., Kang, B., & Im, E. G. (2025). Image-based malicious network traffic detection framework: Data-centric approach. Applied Sciences, 15(12), 6546. https://doi.org/10.3390/app15126546
 
 ### IEEE Style
-D.-S. Choi, T. Kim, B. Kang, and E.G. Im, "Image-based Malicious Network Traffic Detection Framework: Data-centric approach," *Journal Name*, vol. XX, no. X, pp. XXX-XXX, 2024, doi: 10.XXXX/XXXXXXX.
+D.-S. Choi, T. Kim, B. Kang, and E. G. Im, "Image-based malicious network traffic detection framework: Data-centric approach," Applied Sciences, vol. 15, no. 12, p. 6546, Jun. 2025, doi: 10.3390/app15126546.
 
 ---
 
-**Note**: 
-- The citation information will be updated with the correct journal details, DOI, and page numbers once the paper is officially published.
+**Note**:
 - Please note that the code may not work properly without proper configuration. Before using the code provided in this repository, you must modify the file paths, wandb entity information, and other settings to match your environment.
